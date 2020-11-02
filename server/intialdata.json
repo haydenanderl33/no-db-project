@@ -1,0 +1,20 @@
+[
+    {
+    "id": 0,   
+    "website": "Google",
+    "username": "John425",
+    "password": "12345"
+},
+    {
+    "id": 1, 
+    "website": "Facebook",
+    "username": "Juan789",
+    "password": "46826"
+},
+    {
+    "id": 2,
+    "website": "Youtube",
+    "username": "Shelby458",
+    "password": "13548"
+}
+]
